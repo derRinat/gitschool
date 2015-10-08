@@ -1,4 +1,4 @@
-this is step one, daniel von meinestadt
+this is step one, meinestadt
 
 second change, "hello world"
 
