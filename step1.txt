@@ -1,5 +1,1 @@
-this is step one, daniel
-
-second change, "hello world"
-
-new data
+new line, give me conflict§
