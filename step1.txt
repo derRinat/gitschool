@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 123 new line, give me conflict§
+=======
+this is step one, meinestadt
+
+second change, "hello world"
+
+new data
+>>>>>>> 13f9138695805924fdc97590b4f85cac8fefd3dc
